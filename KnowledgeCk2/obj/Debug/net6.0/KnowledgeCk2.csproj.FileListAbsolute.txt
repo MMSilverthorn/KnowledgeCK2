@@ -1,0 +1,15 @@
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCK2\KnowledgeCk2\obj\Debug\net6.0\KnowledgeCk2.csproj.AssemblyReference.cache
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCK2\KnowledgeCk2\obj\Debug\net6.0\KnowledgeCk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCK2\KnowledgeCk2\obj\Debug\net6.0\KnowledgeCk2.AssemblyInfoInputs.cache
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCK2\KnowledgeCk2\obj\Debug\net6.0\KnowledgeCk2.AssemblyInfo.cs
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCK2\KnowledgeCk2\obj\Debug\net6.0\KnowledgeCk2.csproj.CoreCompileInputs.cache
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\bin\Debug\net6.0\knowledgeCk2.exe
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\bin\Debug\net6.0\knowledgeCk2.deps.json
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\bin\Debug\net6.0\knowledgeCk2.runtimeconfig.json
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\bin\Debug\net6.0\knowledgeCk2.dll
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\bin\Debug\net6.0\knowledgeCk2.pdb
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\obj\Debug\net6.0\knowledgeCk2.dll
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\obj\Debug\net6.0\refint\knowledgeCk2.dll
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\obj\Debug\net6.0\knowledgeCk2.pdb
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\obj\Debug\net6.0\knowledgeCk2.genruntimeconfig.cache
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\KnowledgeCk2\KnowledgeCk2\obj\Debug\net6.0\ref\knowledgeCk2.dll
